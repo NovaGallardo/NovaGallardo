@@ -1,11 +1,11 @@
 👋 Hi, I'm Nova Gallardo!
 
-I’m currently transitioning my career into data analysis. 🎯 After a journey in the creative field with a Bachelor's in Audiovisual Communication and Interactive Media, I realized that technology and data are crucial for making strategic, informed decisions. My background in video editing and 2D animation gave me a deep understanding of working with advanced software, and now I’m shifting that mindset toward data analysis.
+I’ve recently completed my transition into data analytics after finishing the Data Analyst program at Laboratoria Bootcamp. 🎯 With a background in Audiovisual Communication and Interactive Media, I realized that technology and data are crucial for making strategic, informed decisions. My experience in video editing and 2D animation gave me a strong foundation in working with advanced software, and now I apply that same problem-solving mindset to data analysis.
 
-I'm currently enrolled in the Data Analyst program at Laboratoria Bootcamp, where I'm sharpening my skills in SQL, Power BI, and Looker Studio. 📊 While I’ve just started learning Python, my main focus is SQL and visualizing insights through interactive dashboards. My role as tech support at La Victoria Lab is reinforcing my decision to fully dive into the tech world, solidifying my passion for technology and data-driven solutions. 🛠️
+My skill set includes SQL, Power BI, Looker Studio, and a bit of Python, with a strong focus on transforming raw data into meaningful insights through interactive dashboards. 📊 My role as tech support at La Victoria Lab further solidified my passion for tech and data-driven solutions, reinforcing my commitment to this field.
 
-I’m excited to continue this journey in data analysis and use my skills to generate insights that support strategic decision-making. 🚀
+I’m excited to continue growing as a data analyst, leveraging my skills to generate insights that drive strategic decision-making. 🚀
 
-When I’m not working with data, you’ll find me surfing 🌊 or exploring new tech trends. 🧠
+When I’m not working with data, you’ll find me surfing, exploring new tech trends or probably trading the futures market. 🧠
 
 📫 Feel free to reach out to me at novagallardo@gmail.com
